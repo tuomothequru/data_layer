@@ -1,4 +1,5 @@
 //W3C Data layer for measuring transactions
+// https://www.w3.org/2013/12/ceddl-201312.pdf
 digitalData = {
 	"transaction":{
 		"transactionid": "T1234",				// Pakollinen kenttä (string)
